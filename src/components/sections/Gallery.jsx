@@ -7,6 +7,7 @@ import flyer2 from "../../assets/images/flyer2.png";
 import flyer3 from "../../assets/images/flyer3.png";
 import flyer4 from "../../assets/images/flyer4.png";
 import flyer5 from "../../assets/images/flyer5.png";
+import flyer6 from "../../assets/images/flyer6.png";
 
 const flyers = [
   {
@@ -30,7 +31,7 @@ const flyers = [
   {
     id: 4,
     img: flyer4,
-    titulo: "Invertí en calidad",
+    titulo: "Invvierte en calidad",
     descripcion: "Solución para empresas",
   },
   {
@@ -38,6 +39,12 @@ const flyers = [
     img: flyer5,
     titulo: "Sin residuos ni mal olor",
     descripcion: "Sanitización profesional",
+  },
+  {
+    id: 6,
+    img: flyer6,
+    titulo: "Botellones hasta la puerta de tu casa",
+    descripcion: "Servicio a domicilio activo",
   },
 ];
 
