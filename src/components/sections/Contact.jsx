@@ -22,7 +22,7 @@ const Contact = () => {
               href="https://instagram.com/aguaminelva"
               className="text-[#0077B6]"
             >
-              @{empresa.instagram}
+              {empresa.instagram}
             </a>
           </p>
           <a
